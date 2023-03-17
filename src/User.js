@@ -141,7 +141,7 @@ export default function User() {
         >
           
           <Typography  variant="h3">
-            Click next Project
+            ClickNext Project
           </Typography>
 
           </Box>
